@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.field {
+    text-align: center;
+    width: 60px;
+}
+
+.timer_input {
+    padding-left: 5px;
+    width: 230px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.timer_btn {
+    height: 25px;
+}
+
+.timer {
+    display: flex;
+    gap: 12px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.value {
+    font-size: 35px;
+}
